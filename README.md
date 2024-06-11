@@ -1,1 +1,1 @@
-# SSAFY-11th-최종PJT
+# SSAFY-11th-PJT
